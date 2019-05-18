@@ -1,0 +1,50 @@
+Filename: sales.php
+File Location: SiteCSA\admin-area\sales.php
+Component: Report
+
+========================================================================================================
+
+Filename: stock.php
+File Location: SiteCSA\admin-area\stock.php
+Component: Increase Stock Quantity
+
+========================================================================================================
+
+Filename: confirm.php
+File Location: SiteCSA\customer\confirm.php
+Component: Confirm Payment Order
+
+========================================================================================================
+
+
+Filename: customer_login.php
+File Location: SiteCSA\customer\customer_login.php
+Component: Customer Login Page
+
+========================================================================================================
+
+Filename: signout.php
+File Location: SiteCSA\customer\signout.php
+Component: Customer Logout Page
+
+========================================================================================================
+
+Filename: order.php
+File Location: SiteCSA\order.php
+Component: Payment Details
+
+========================================================================================================
+
+Filename: checkout.php, payment_options.php, order.php
+File Location: SiteCSA\checkout.php, SiteCSA\payment_options.php, SiteCSA\order.php
+Component: Checkout
+
+========================================================================================================
+
+Function: cart()
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Component: Add item to cart
+
+========================================================================================================
+

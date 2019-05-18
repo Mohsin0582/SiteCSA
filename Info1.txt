@@ -1,0 +1,348 @@
+Filename: index.php
+File Location: SiteCSA\index.php
+Functionality: Greeting you see when you visit the website
+Comment Line Number: 56-58
+
+========================================================================================================
+
+Filename: index.php
+File Location: SiteCSA\index.php
+Functionality: Sign in or sign out hyperlink
+Comment Line Number: 72
+
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Shows the products when user visits the site
+Comment Line Number: 5-7
+
+Function call: getProduct()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:85
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Shows the products of specific category
+Comment Line Number: 95-97
+
+Function call: getCategoriesProduct()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:86
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Shows the products of specific brand
+Comment Line Number: 41-43
+
+Function call: getBrandsProduct()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:87
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Shows the brand names from database
+Comment Line Number: 85-87
+
+Function call: getBrands()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:48
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Shows the categories names from database
+Comment Line Number: 142-144
+
+Function call: getCategories()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:43
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Adds products into the cart
+Comment Line Number: 271-273
+
+Function call: cart()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:5
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Numbers of items in the cart
+Comment Line Number: 297-299
+
+Function call: items()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:69
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Total price of products in the cart
+Comment Line Number: 309-311
+
+Function call: total_price()
+Filename: index.php
+File Location: SiteCSA\index.php
+Line Number:69
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Shows the details of the selected product
+Comment Line Number: 217-219
+
+Function call: productDetails()
+Filename: details.php
+File Location: SiteCSA\details.php
+Line Number:59
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: cart.php
+File Location: SiteCSA\cart.php
+Functionality: Shows cart products
+Comment Line Number: 135-137
+
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Remove items from the cart
+Comment Line Number: 340-342
+
+Function call: removeItemFromCart()
+Filename: cart.php
+File Location: SiteCSA\cart.php
+Line Number:6
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: cart.php
+File Location: SiteCSA\cart.php
+Functionality: Updates the quantity of the products
+Comment Line Number: 10-12
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Search products in the website
+Comment Line Number: 186-188
+
+Function call: searchProducts()
+Filename: results.php
+File Location: SiteCSA\results.php
+Line Number:59
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: checkout.php
+File Location: SiteCSA\checkout.php
+Functionality: checks whether to take to the sign in page or payment page
+Comment Line Number: 71
+
+========================================================================================================
+
+
+Filename: payment_options.php
+File Location: SiteCSA\payment_options.php
+Functionality: Specific ip address customer signed in
+Comment Line Number: 16
+
+========================================================================================================
+
+Filename: order.php
+File Location: SiteCSA\order.php
+Functionality: Order Products
+Comment Line Number: 5
+
+========================================================================================================
+
+Filename: customer_register.php
+File Location: SiteCSA\customer_register.php
+Functionality: Registers the customer
+Comment Line Number: 366
+
+========================================================================================================
+
+Filename: signout.php
+File Location: SiteCSA\signout.php
+Functionality: Deletes the customer session
+Comment Line Number: 3
+
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Number of Pending orders, details of the pending orders and pay offline for the pending orders
+Comment Line Number: 363-365
+
+Function call: getDefault();
+Filename: my_account.php.php
+File Location: SiteCSA\customer\my_account.php
+Line Number:90
+
+
+(The function executes the same behavior if called in different line number in different files)
+========================================================================================================
+
+Filename: confirm.php
+File Location: SiteCSA\customer\confirm.php
+Functionality: submits the payment details offline
+Comment Line Number: 6
+
+========================================================================================================
+
+Filename: customer_login.php
+File Location: SiteCSA\customer\customer_login.php
+Functionality: checks the customer login credentials
+Comment Line Number: 35
+
+========================================================================================================
+
+Filename: change_pass.php
+File Location: SiteCSA\customer\change_pass.php
+Functionality: changes the customer password
+Comment Line Number: 31
+
+========================================================================================================
+
+Filename: orders.php
+File Location: SiteCSA\customer\orders.php
+Functionality: Pending orders list
+Comment Line Number: 29
+
+========================================================================================================
+
+Filename: edit.php
+File Location: SiteCSA\customer\edit.php
+Functionality: Edit customer information
+Comment Line Number: 310
+
+========================================================================================================
+
+Filename: signout.php
+File Location: SiteCSA\customer\signout.php
+Functionality: Signout
+Comment Line Number: 3
+
+========================================================================================================
+
+Filename: delete_account.php
+File Location: SiteCSA\customer\delete_account.php
+Functionality: Deletes the user account
+Comment Line Number: 22
+
+========================================================================================================
+
+Filename: index.php
+File Location: SiteCSA\admin_area\index.php
+Functionality: sign in check
+Comment Line Number: 5
+
+========================================================================================================
+
+Filename: login.php
+File Location: SiteCSA\admin_area\login.php
+Functionality: sign in credentials
+Comment Line Number: 83
+
+========================================================================================================
+
+Filename: insert_product.php
+File Location: SiteCSA\admin_area\insert_product.php
+Functionality: adds new product
+Comment Line Number: 94
+
+========================================================================================================
+
+Filename: view_products.php
+File Location: SiteCSA\admin_area\view_products.php
+Functionality: view all products
+Comment Line Number: 32
+
+========================================================================================================
+
+Filename: view_customers.php
+File Location: SiteCSA\admin_area\view_customers.php
+Functionality: view all customer accounts
+Comment Line Number: 30
+
+========================================================================================================
+
+
+Filename: sales.php
+File Location: SiteCSA\admin_area\sales.php
+Functionality: sales report
+Comment Line Number: 25
+
+========================================================================================================
+
+Filename: delete_order.php
+File Location: SiteCSA\admin_area\delete_order.php
+Functionality: Deletes the specific order
+Comment Line Number: 4
+
+========================================================================================================
+
+Filename: delete_customer.php
+File Location: SiteCSA\admin_area\delete_customer.php
+Functionality: Deletes the specific customer
+Comment Line Number: 6
+
+========================================================================================================
+
+Filename: functions.php
+File Location: SiteCSA\functions\functions.php
+Functionality: Gets the IP Address of the customer 
+Comment Line Number: 255
+
+========================================================================================================
+
+
+
